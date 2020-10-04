@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 36.24 35.167">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#b2bcc4}.cls-1{stroke:rgba(0,0,0,0)}
+        </style>
+    </defs>
+    <g id="Group_108" data-name="Group 108" transform="translate(-81.913 -189.585)">
+        <path id="Subtraction_6" d="M25.99 27.257H5.886a2.8 2.8 0 0 1-2.8-2.8v-5.6a2.8 2.8 0 0 0 .013-5.6v-5.6a2.8 2.8 0 0 1 .688-1.84l7.547 7.283-2.354.14 4.606 3.764-1.51 5.77 5.009-3.223 2.776 1.784 6.128 5.917zm3.839-.464l-8.958-8.65-.3-1.122 4.6-3.765-5.935-.349-2.15-5.532-2.027 5.155-7.946-7.674h21.173a2.8 2.8 0 0 1 2.8 2.8v5.6a2.8 2.8 0 0 0 0 5.6v5.6a2.8 2.8 0 0 1-1.257 2.337z" class="cls-1" data-name="Subtraction 6" transform="translate(81.913 191.944)"/>
+        <rect id="Rectangle_16" width="3.5" height="47" class="cls-2" data-name="Rectangle 16" rx="1.75" transform="rotate(-45.97 267.392 -.498)"/>
+    </g>
+</svg>
